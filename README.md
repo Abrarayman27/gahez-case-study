@@ -147,10 +147,10 @@ The visual direction uses a confident purple palette for a recognizable, cohesiv
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="./screens/47___Category_Listing_Template.svg" alt="Discovery" width="200"><br><b>Personalization & Discovery</b></td>
+<td align="center" width="25%"><img src="./screens/47 — Category Listing Template.svg" alt="Discovery" width="200"><br><b>Personalization & Discovery</b></td>
 <td align="center" width="25%"><img src="./screens/Event Details.svg" alt="Event details" width="200"><br><b>Event Details</b></td>
 <td align="center" width="25%"><img src="./screens/Home_ Returning User.svg" alt="Home" width="200"><br><b>Home</b></td>
-<td align="center" width="25%"><img src="./screens/Get_Started_1.png" alt="Get started" width="200"><br><b>Get Started</b></td>
+<td align="center" width="25%"><img src="./screens/Get Started.png" alt="Get started" width="200"><br><b>Get Started</b></td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ The product connects the decision to attend with the next steps, reducing the ne
 
 <br>
 
-<img src="./screens/Home__hero_section_.svg" alt="Gahez website" width="100%">
+<img src="./screens/Home (hero section).svg" alt="Gahez website" width="100%">
 
 Both platforms share a consistent visual language, while each interface supports its own users and tasks.
 
