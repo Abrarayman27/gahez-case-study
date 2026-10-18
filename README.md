@@ -148,8 +148,8 @@ The visual direction uses a confident purple palette for a recognizable, cohesiv
 <table>
 <tr>
 <td align="center" width="25%"><img src="./screens/47___Category_Listing_Template.svg" alt="Discovery" width="200"><br><b>Personalization & Discovery</b></td>
-<td align="center" width="25%"><img src="./screens/Event_Details_1.svg" alt="Event details" width="200"><br><b>Event Details</b></td>
-<td align="center" width="25%"><img src="./screens/Home__Returning_User.svg" alt="Home" width="200"><br><b>Home</b></td>
+<td align="center" width="25%"><img src="./screens/Event Details.svg" alt="Event details" width="200"><br><b>Event Details</b></td>
+<td align="center" width="25%"><img src="./screens/Home_ Returning User.svg" alt="Home" width="200"><br><b>Home</b></td>
 <td align="center" width="25%"><img src="./screens/Get_Started_1.png" alt="Get started" width="200"><br><b>Get Started</b></td>
 </tr>
 </table>
